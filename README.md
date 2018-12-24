@@ -5,10 +5,9 @@ Academico
 1- Abrir Terminal BASH do GIT
 2- CD <path> da pasta onde quermos trabalhar. Onde fica guardado os files colonados>
 3- git clone https://github.com/<name>/<folder>.git
-3- CD <path> da pasta colonada>
-3- 
-4- git remote -v #confirma link
-5- git remote set-url origin https://github.com/<name>/<folder>.git  ##sincroniza PC com GH
+4- CD <path> da pasta colonada>
+5- git remote -v #confirma link
+6- git remote set-url origin https://github.com/<name>/<folder>.git  ##sincroniza PC com GH
 
 # Produzindo e registando alterações
 1- Dpois de alterado o ficheiro deve de ser guardado pelo IDE.

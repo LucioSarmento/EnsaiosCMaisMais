@@ -1,21 +1,23 @@
 # EnsaiosCMaisMais
 Academico
 
-git status
-git add <file name>
-git status #para confirmar
-git commit -m "comentario"
-git push otigin master
+#   Trabalhar a partir de um repositorio existente no GH
+1- Abrir Terminal BASH do GIT
+2- CD <path> da pasta onde quermos trabalhar. Onde fica guardado os files colonados>
+3- git clone https://github.com/<name>/<folder>.git
+3- CD <path> da pasta colonada>
+3- 
+4- git remote -v #confirma link
+5- git remote set-url origin https://github.com/<name>/<folder>.git  ##sincroniza PC com GH
+
+# Produzindo e registando alterações
+1- Dpois de alterado o ficheiro deve de ser guardado pelo IDE.
+2- git status
+3- git add <file name>
+4- git status ##para confirmar
+5- git push origin master
 
 
-#Sincronizar PC com GH
-       #Descarrega APP do GH
-         git clone https://github.com/<name>/<folder>.git
-         Depois de criada a pasta é necessário entrar nela por CD <path>
-            #Confirma link
-             git remote -v
-        # sincronizar
-          git remote set-url origin https://github.com/<name>/<folder>.git
 
-#CArregar app no gh Depois de sincronizado
+#CArregar nova app no gh Depois de sincronizado
  git push -u origin master

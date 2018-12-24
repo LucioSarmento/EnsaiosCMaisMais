@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1544114453 source:d:\2018d\projetoscmaismais\primeiroprojetocmaismais181206\main.cpp
+	<iostream>
+
+1544113404 source:d:\2018d\projetoscmaismais\primeiroprojetocmaismais181206\ifteste.cpp
+	<iostream>
+
+1545174640 source:d:\2018d\projetoscmaismais\primeiroprojetocmaismais181206\novaclass1.c
+
+1545259705 source:d:\2018d\projetoscmaismais\primeiroprojetocmaismais181206\src\novaclass2.cpp
+	<iostream>
+	"NovaClass2.h"
+
+1545174732 d:\2018d\projetoscmaismais\primeiroprojetocmaismais181206\include\novaclass2.h
+
+1545174640 source:d:\2018d\cmaismais\projetoscmaismais\academicocmaismais\novaclass1.c
+
+1545259705 source:d:\2018d\cmaismais\projetoscmaismais\academicocmaismais\src\novaclass2.cpp
+	<iostream>
+	"NovaClass2.h"
+
+1545662527 d:\2018d\cmaismais\projetoscmaismais\academicocmaismais\include\novaclass2.h
+
+1545661946 source:d:\2018d\cmaismais\projetoscmaismais\academicocmaismais\main.cpp
+	<iostream>
+	<string>
+

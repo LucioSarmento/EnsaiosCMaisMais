@@ -17,3 +17,5 @@ git push otigin master
          git clone https://github.com/<name>/<folder>.git
             #Confirma link
              git remote -v
+        # sincronizar
+          git remote set-url origin https://github.com/<name>/<folder>.git

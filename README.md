@@ -14,6 +14,6 @@ git push otigin master
 
 #Sincronizar PC com GH
        #Descarrega APP do GH
-         git clone https://github.com/LucioSarmento/EnsaiosCMaisMais.git
+         git clone https://github.com/<name>/<folder>.git
             #Confirma link
              git remote -v

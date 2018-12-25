@@ -9,7 +9,8 @@ public:
         cout << "this will get printied automagicaly \n";
         cout << "nova linha \n";
          cout << "Mais uma linha \n";
-         cout << "Linha para teste do registo no github";
+         cout << "Linha para teste do registo no github \n";
+        cout << "Linha para teste do registo no git";
 
 
         }

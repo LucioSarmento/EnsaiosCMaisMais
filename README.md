@@ -14,6 +14,7 @@ Academico
 2- git status
 3- git add <file name>
 4- git status ##para confirmar
+5- git commit -m "Comentário"
 5- git push origin master
 
 
